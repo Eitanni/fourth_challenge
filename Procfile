@@ -1,1 +1,1 @@
-web: pip install . -U && chmod +x fourth_challenge-run
+web: pip install . -U && chmod +x scripts/fourth_challenge-run
