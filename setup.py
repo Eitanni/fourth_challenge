@@ -13,5 +13,5 @@ setup(name='4th_challenge',
       test_suite='tests',
       # include_package_data: to install data from MANIFEST.in
       include_package_data=True,
-      scripts=['scripts/4th_challenge-run'],
+      scripts=['scripts/fourth_challenge-run'],
       zip_safe=False)
